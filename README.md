@@ -11,7 +11,13 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Contact"/>
     </a>
   </div>
+
+<hr/>
 </div>
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31obcni3ublqgmmvpfxcnttjib7q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31obcni3ublqgmmvpfxcnttjib7q&redirect=true)
 
 - 👋 Hi, I’m Huynh Truong
 - 💼 I'm a Sophomore at Ton Duc Thang University.
